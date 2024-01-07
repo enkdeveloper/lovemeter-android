@@ -1,0 +1,37 @@
+body {
+    background-color: #ff69b4;
+  }
+  
+  .App {
+    text-align: center;
+    background-color: #ff69b4;
+  }
+  
+  .title {
+    text-align: center;
+    align-items: center;
+    color: white; 
+    font-size: 48px;
+    padding-left: 0px;
+  }
+  
+  .calculate-container {
+    margin-top: 20px;
+  }
+  
+  .calculate-button {
+    background-color: red; 
+    color: #fff;
+    margin: 20px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .result-text {
+    font-size: 18px;
+    color: white; 
+    margin-top: 20px;
+  }
+  
